@@ -1,6 +1,4 @@
-# m1k3ydav // Michael Davila
-
-`Cybersecurity` · `IT` · `Software Development`
+![Profile Banner](./banner.svg)
 
 I'm a cybersecurity graduate student based in San Antonio, TX.
 I enjoy exploring technology, building projects, solving technical
