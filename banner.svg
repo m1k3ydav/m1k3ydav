@@ -70,6 +70,13 @@
           repeatCount="indefinite"/>
       </circle>
 
+      <circle r="2" fill="#a5e5ff">
+        <animateMotion
+          path="M550 175L611 72L737 45L881 40"
+          dur="7s"
+          repeatCount="indefinite"/>
+      </circle>
+
     </g>
 
     <rect x="42" y="44" width="38" height="3"
@@ -89,25 +96,20 @@
           font-weight="700"
           letter-spacing="-2"
           fill="#f0f7ff">
-      m1k3ydav
+      m1k3ydav<tspan fill="#39b9ff">.</tspan>
     </text>
 
     <text x="43" y="170"
           font-family="monospace"
           font-size="14"
           fill="#a9c8df">
-      CYBERSECURITY / IT / SOFTWARE DEVELOPMENT
+      CYBERSECURITY / IT / DEVELOPMENT
     </text>
 
     <path d="M43 192H483" stroke="#20445e"/>
     <path d="M43 192H103" stroke="#39b9ff" stroke-width="2"/>
 
   </g>
-
-  <rect x=".5" y=".5" width="899" height="219"
-        rx="16" fill="none" stroke="#28445b"/>
-
-</svg>
 
   <rect x=".5" y=".5" width="899" height="219"
         rx="16" fill="none" stroke="#28445b"/>
