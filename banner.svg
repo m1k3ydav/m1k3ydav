@@ -96,14 +96,14 @@
           font-weight="700"
           letter-spacing="-2"
           fill="#f0f7ff">
-      m1k3ydav<tspan fill="#39b9ff">.</tspan>
+      m1k3ydav<tspan fill="#39b9ff"></tspan>
     </text>
 
     <text x="43" y="170"
           font-family="monospace"
           font-size="14"
           fill="#a9c8df">
-      CYBERSECURITY / IT / DEVELOPMENT
+      CYBERSECURITY / IT / SOFTWARE DEVELOPMENT
     </text>
 
     <path d="M43 192H483" stroke="#20445e"/>
